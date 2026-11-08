@@ -1,0 +1,21 @@
+{
+  "id": "step_velocity",
+  "name": "Step velocity",
+  "description": "Hold a step, press track button 1-8: its notes get velocity 4, 8, 16, 32, 64, 100, 112 or 127. The buttons show it.",
+  "note": "Track buttons don't select tracks while a step is held. Empty step + buttons 1 and 8: pink party.",
+  "claims": [
+    "held_step_track_1",
+    "held_step_track_2",
+    "held_step_track_3",
+    "held_step_track_4",
+    "held_step_track_5",
+    "held_step_track_6",
+    "held_step_track_7",
+    "held_step_track_8"
+  ],
+  "actions": [
+    "edit_velocity",
+    "light_tracks",
+    "light_keys"
+  ]
+}

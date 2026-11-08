@@ -1,0 +1,6 @@
+{
+  "stock":  {"beat_hz": 1108.73, "accent_hz": 1567.98, "decay_ms": 20.0, "lowpass": 0.85, "gain": 0.15},
+  "soft":   {"beat_hz": 700,     "accent_hz": 1000,    "decay_ms": 2.5,  "lowpass": 0.90, "gain": 0.15},
+  "thud":   {"beat_hz": 450,     "accent_hz": 650,     "decay_ms": 3.0,  "lowpass": 0.93, "gain": 0.10},
+  "tick":   {"beat_hz": 1500,    "accent_hz": 2000,    "decay_ms": 1.5,  "lowpass": 0.80, "gain": 0.20}
+}
